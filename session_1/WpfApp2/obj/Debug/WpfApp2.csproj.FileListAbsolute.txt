@@ -1,0 +1,106 @@
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\TaskWindow.g.cs
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\Window1.g.cs
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\TaskWindow.baml
+C:\Users\Артем\source\repos\WpfApp2\WpfApp2\obj\Debug\Window1.baml
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.baml
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.g.cs
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.baml
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Артем\Downloads\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.pdb
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe.config
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.pdb
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.g.cs
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.g.cs
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\App.g.cs
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.baml
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.baml
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.g.resources
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.exe
+F:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.pdb
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\muchap.g.cs
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.g.cs
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\App.g.cs
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.baml
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.baml
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\muchap.baml
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.exe
+D:\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\muchap.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\muchap.baml
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\TaskWindow.baml
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Владислав\Desktop\Новая папка (2)\Новая папка (2)\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.Cache
